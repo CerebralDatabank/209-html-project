@@ -5,5 +5,6 @@ Group project for ISTM 209 Spring 2024
 
 Gopal Othayoth – Base/template code for all files  
 Mackenzie Ceballos – `index.html`  
-Jasmine Bonilla  
-Hannah Bliss
+Jasmine Bonilla – `tradition.html`  
+Hannah Bliss – `newtradition.html` and `groupmembers.html`  
+Everyone – Respective bios in `groupmembers.html`
